@@ -1,0 +1,30 @@
+name: clean_arch
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  bloc: ^7.1.0
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^7.1.0
+  flutter_screenutil: ^5.0.0+2
+  get_it: ^6.0.0
+  injectable: ^1.2.2
+  sqflite: ^2.0.0+3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  injectable_generator: ^1.2.2
+  build_runner: ^1.12.2
+  lint: ^1.5.3
+flutter:
+  uses-material-design: true
+

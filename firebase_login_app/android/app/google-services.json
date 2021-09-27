@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "895900723237",
+    "project_id": "learnbloc",
+    "storage_bucket": "learnbloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895900723237:android:1f3a5ea818ea945c6bb7cc",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login_app.firebase_login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895900723237-9cpc81rq7i76hdbgnanmc55sma3dh3ge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_login_app.firebase_login_app",
+            "certificate_hash": "665e1625dc1d54ad15fe6b1372292d1c6c759e68"
+          }
+        },
+        {
+          "client_id": "895900723237-d660msq2u316l6okm45ri8f1ogjffj0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFNpBlj_zrvy_Gk4UewjLyoqABbZXZGQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895900723237-d660msq2u316l6okm45ri8f1ogjffj0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

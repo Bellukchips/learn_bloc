@@ -1,0 +1,29 @@
+name: login_app
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  authentication_repository:
+    path: packages/authentication_repository
+  cupertino_icons: ^1.0.2
+  equatable: ^2.0.3
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^7.1.0
+  formz: ^0.4.0
+  user_repository:
+    path: packages/user_repository
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  bloc_test: ^8.1.0
+  mocktail: ^0.1.4
+
+flutter:
+  uses-material-design: true
